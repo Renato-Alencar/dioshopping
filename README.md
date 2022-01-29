@@ -11,7 +11,7 @@ Desafio Final do Bootcamp Inter Front-End Developer, desenvolvido em TypeScript 
 - `yarn build`: Constrói o aplicativo para produção na pasta `build`.
 - `yarn eject`: Remove a dependência de construção única do seu projeto. Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas apenas em seu projeto para que você tenha controle total sobre eles.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Nota: aqui está uma operação irreversível. Uma vez que você 'ejete', você não pode voltar!**
 
 ## Atualizações
 

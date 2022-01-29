@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Desafio Final do Bootcamp Inter Front-End Developer, desenvolvido em TypeScript e ReactJS.
+Desafio Final do Bootcamp Inter Front-End Developer, desenvolvido em ReactJS.
 
 ## Comandos
 
